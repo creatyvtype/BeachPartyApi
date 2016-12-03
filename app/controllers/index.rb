@@ -9,6 +9,6 @@ get '/ball' do
         'http://www.clker.com/cliparts/N/H/5/n/y/M/strandball-beachball-ball.svg',
         'https://s-media-cache-ak0.pinimg.com/originals/21/7d/d4/217dd476ba950732fef1b897099773ec.png'
     ]
-    sleep rand(0..5)
+    sleep rand(1..5)
     {ball_url: urls.sample}.to_json
 end
