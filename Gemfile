@@ -1,6 +1,9 @@
 source 'https://rubygems.org'
 ruby '2.3.1'
 
+# CORS
+gem "sinatra-cross_origin", "~> 0.3.1"
+
 # PostgreSQL driver
 gem 'pg'
 
