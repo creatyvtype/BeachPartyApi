@@ -1,6 +1,6 @@
 get '/ball' do
     urls = [
-        'http://images.clipartbro.com/120/beachball-primary-clip-art-vector-online-royalty-free-120001.svg',
+        'http://www.whatdoyouneed.com/navy-blue-and-white-alternating-color-beach-balls-1.jpg',
         'https://cdn.pixabay.com/photo/2015/02/08/18/44/beach-628940_1280.png',
         'http://www.clipartsfree.net/vector/large/17957-beach-ball-vector.png',
         'http://clipartix.com/wp-content/uploads/2016/04/Beach-ball-clip-art-free-vector-for-free-download-about-free-image.png',
