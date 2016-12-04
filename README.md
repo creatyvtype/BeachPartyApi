@@ -2,6 +2,9 @@
 
 API for [BeachParty](https://github.com/creatyvtype/BeachParty)
 
+The deployed API is available when you access:  
+beach-api.herokuapp.com/ball
+
 To run:  
 `bundle install`  
 `be shotgun`  
